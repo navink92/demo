@@ -1,13 +1,18 @@
 {
-  "serverList":[
-  {
-  "hostName":"ir1244rtp",
-  "typeOfBox":"linux",
-  "Environment":"Non-prod"
-  },{
-  "hostName":"ir12323rtp",
-  "typeOfBox":"windows",
-  "Environment":"Non-prod"
-  }
-   ]     
- }
+      "serverList": [
+      {
+      "hostName": "vh123",
+      "vah": "pshdwp1rtp2",
+      "creationTime": "24apr"
+      },
+      {
+      "hostName": "vh123",
+      "vah": "pshdwp1oma2",
+      "creationTime": "24apr"
+      },{
+      "hostName": "vh123",
+      "vah": "brkse",
+      "creationTime": "25apr"
+      }
+    ]
+      }
