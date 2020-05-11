@@ -1,4 +1,4 @@
- {[
+ [
   {
   "hostName":"ir1244rtp",
   "typeOfBox":"linux",
@@ -8,5 +8,4 @@
   "typeOfBox":"windows",
   "Environment":"Non-prod"
   }
-   ]     
- }
+   ] 
